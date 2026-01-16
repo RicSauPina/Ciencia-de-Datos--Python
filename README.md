@@ -39,7 +39,11 @@ Se utilizo en este caso Fruit basket y series de tiempo para intentar analizar e
 Lo que nos pudimos percatar es que aunque las predicciones eran herradas, unicamente dando una media segun un periodo de tiempo. Se pudo comprobar que las ventas iban en decadencia y si seguian el transcurso actual se espera que disminuyan a lo largo del tiempo.
 
 ## ¿Qué aprendí?
-El pastel es una mentira
+* La limpieza de datos puede parecer sencilla, pero las excepciones incrementar la dificultad.
+* Es mucho mas sencillo investigar ciertas informaciónes en SQL
+* Que aun con series de tiempo, una predicción exacta es sumamente complicada sin generar un sobre-entrenamiento.
+
+
 
 
 
