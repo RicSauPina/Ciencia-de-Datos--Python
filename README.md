@@ -25,15 +25,15 @@ Se utilizo en este caso Fruit basket y series de tiempo para intentar analizar e
 * Graficas 
     * Seaborn
     * Matplotlib
-###     Texto
-    Re
-###     Manipulacion de datos
-    Pandas
-###     Calculos algebraicos
-    Numpy
-###     Modelado
-    Arima
-    mlxtend
+* Texto
+   * Re
+* Manipulacion de datos
+   * Pandas
+* Calculos algebraicos
+   * Numpy
+* Modelado
+   * Arima
+   * mlxtend
 
 ## Resultados principales
 Lo que nos pudimos percatar es que aunque las predicciones eran herradas, unicamente dando una media segun un periodo de tiempo. Se pudo comprobar que las ventas iban en decadencia y si seguian el transcurso actual se espera que disminuyan a lo largo del tiempo.
