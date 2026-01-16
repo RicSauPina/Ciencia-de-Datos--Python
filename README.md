@@ -22,9 +22,9 @@ Se analizo con el uso de series de tiempo la tendencia de las ventas de producto
 Se utilizo en este caso Fruit basket y series de tiempo para intentar analizar el comportamiento de las ventas
 
 ## Librerias utilizadas en el modelo
-###     Graficas 
-    Seaborn
-    Matplotlib
+* Graficas 
+    * Seaborn
+    * Matplotlib
 ###     Texto
     Re
 ###     Manipulacion de datos
